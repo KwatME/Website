@@ -1,9 +1,3 @@
-# Kwat Medetgul-Ernar (Huwate Yeerna)
-
-kwat@stanford.edu
-
-https://web.stanford.edu/people/kwat
-
 ## Summary
 
 I'm a bioinformatician and a seventh-year MD-PhD candidate in the Mark Davis Laboratory at Stanford School of Medicine
