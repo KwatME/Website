@@ -1,40 +1,38 @@
-## Kwat Medetgul-Ernar (formerly Huwate Yeerna)
+## Kwat Medetgul-Ernar (Huwate Yeerna)
 
 KwatMDPhD.com
 
-Bioinformatician and 7th-year MD-PhD candidate in the Mark Davis Laboratory at Stanford University School of Medicine
-
 ## Education
 
-**2011 09 - 2016 06** BS, Bioengineering & Bioinformatics @ UCSD
+**2011 09 - 2016 06** BS in Bioengineering & Bioinformatics at University of California San Diego (UCSD)
 
-**2019 08 - Present** MD @ Stanford University School of Medicine
+**2019 08 -** MD at Stanford
 
-**2019 08 - Present** PhD, Biophysics @ Stanford University School of Medicine
-
-**2024 09 - 2024 12** Deep Technology Entrepreneurship Fellowship @ Fifty Years
+**2019 08 -** PhD in Biophysics at Stanford
 
 ## Profession
 
-**2010 06 - 2011 09 & 2014 06 - 2014 09** Kristina Bostrom Laboratory @ UCLA Cardiology
+**2010 06 - 2011 09 & 2014 06 - 2014 09** Laboratory technician at Kristina Bostrom Laboratory, University of California Los Angeles (UCLA) Cardiology
 
-**2013 05 - 2013 09** Stuart Lipton Laboratory @ Sanford Burnham Prebys Medical Discovery Institute
+**2013 05 - 2013 09** Laboratory technician at Stuart Lipton Laboratory, Sanford Burnham Prebys Medical Discovery Institute
 
-**2013 06 - 2013 10** Subramaniam Shankar Laboratory @ UCSD Bioengineering
+**2013 06 - 2013 10** Bioinformatician at Subramaniam Shankar Laboratory, UCSD Bioengineering
 
-**2013 09 - 2016 05** Trey Ideker Laboratory @ UCSD
+**2013 09 - 2016 05** Bioinformatician at Trey Ideker Laboratory, UCSD Bioengineering
 
-**2018 10 - 2019 06** Stuart Schreiber Laboratory @ The Broad Institute of MIT and Harvard
+**2018 10 - 2019 06** Bioinformatician at Stuart Schreiber Laboratory, The Broad Institute of MIT and Harvard Chemical Biology and Therapeutic Sciences
 
-**2015 06 - 2019 07** Founder @ Guardiome LLC
+**2015 06 - 2019 07** Founder at Guardiome LLC
 
-**2015 10 - 2024 01** Pablo Tamayo Laboratory @ UCSD Moores Cancer Center
+**2015 10 - 2024 01** Bioinformatician at Pablo Tamayo Laboratory, UCSD Moores Cancer Center
 
-**2019 09 - 2020 09** Ronald Davis Laboratory @ Stanford University School of Medicine
+**2019 09 - 2020 09** Bioinformatician at Ronald Davis Laboratory, Stanford Genome Technology Center
 
-**2020 09 - Present** Mark Davis Laboratory @ Stanford University School of Medicine
+**2020 09 -** Graduate student at Mark Davis Laboratory, Stanford Institute for Immunity, Transplantation, and Infection
 
-**2023 12 - Present** Founder @ Caucell Inc (formerly Immunogram Co)
+**2023 12 - 2024 04** Founder at Immunogram Co
+
+**2025 07 -** Founder at Caucell Inc
 
 ## Presentation
 
@@ -104,7 +102,7 @@ Y Combinator (talk)
 
 **2022**
 
-Stanford University School of Medicine Medical Scientists Training Program Annual Retreat (talk)
+Stanford Medical Scientists Training Program Annual Retreat (talk)
 
 **2023**
 
@@ -140,7 +138,7 @@ Society for Advancement of Hispanics/Chicanos and Native Americans in Science Fe
 
 **2014**
 
-American Association for Cancer Research Thomas J Bardos Science Education Award
+American Association for Cancer Research Thomas Bardos Science Education Award
 
 UCSD Revelle College Provost Award
 
@@ -158,7 +156,7 @@ Phi Beta Kappa
 
 Kathryn Lane Alumni Scholarship
 
-F Thomas Bond UCSD Revelle College Scholarship
+Frederick Bond UCSD Revelle College Scholarship
 
 **2016**
 
@@ -171,6 +169,10 @@ UCSD Moores Cancer Center Staff Award
 **2023**
 
 American Association of Immunologists Fellowship
+
+**2024**
+
+Fifty Years Deep Technology Entrepreneurship Fellowship
 
 **2025**
 
