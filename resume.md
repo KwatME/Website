@@ -1,6 +1,6 @@
 ## Kwat Medetgul-Ernar (Huwate Yeerna)
 
-KwatMDPhD.com
+Kwat.org
 
 ## Education
 
