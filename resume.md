@@ -1,4 +1,4 @@
-## Kwat Medetgul-Ernar (Huwate Yeerna)
+## Kwat Medetgul-Ernar (Huwate Yeerna), PhD
 
 KwatME.com
 
@@ -8,7 +8,7 @@ KwatME.com
 
 **2019 08 -** MD at Stanford University School of Medicine
 
-**2019 08 -** PhD in Biophysics at Stanford University School of Medicine
+**2021 08 - 2026 08** PhD in Biophysics at Stanford University School of Medicine
 
 ## Profession
 
