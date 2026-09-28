@@ -6,9 +6,7 @@ KwatME.com
 
 **2011 09 - 2016 06** BS in Bioengineering and Bioinformatics at University of California San Diego (UCSD)
 
-**2019 08 -** MD at Stanford University School of Medicine
-
-**2021 08 - 2026 08** PhD in Biophysics at Stanford University School of Medicine
+**2019 08 - 2026 12 ** MD-PhD in Biophysics at Stanford University School of Medicine (dropped out of the MD program)
 
 ## Profession
 
