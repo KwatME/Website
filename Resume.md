@@ -4,21 +4,21 @@ KwatME.com
 
 ## Education
 
-**2011 09 - 2016 06** BS in Bioengineering and Bioinformatics at University of California San Diego (UCSD)
+**2011 09 - 2016 06** BS in Bioengineering and Bioinformatics at University of California, San Diego (UCSD)
 
-**2019 08 - 2026 12** MD-PhD in Biophysics at Stanford University School of Medicine (dropped out of the MD program for Caucell)
+**2019 08 - 2026 12** (MD-)PhD in Biophysics at Stanford University School of Medicine (withdrew from the MD component and was awarded MS for completed medical training)
 
 ## Profession
 
-**2010 06 - 2011 09 & 2014 06 - 2014 09** Technician at Kristina Bostrom Laboratory, University of California Los Angeles (UCLA) Cardiology
+**2010 06 - 2011 09 & 2014 06 - 2014 09** Technician at Kristina Bostrom Laboratory, University of California, Los Angeles (UCLA) Cardiology
 
 **2013 05 - 2013 09** Technician at Stuart Lipton Laboratory, Sanford Burnham Prebys Medical Discovery Institute
 
-**2013 06 - 2013 10** Bioinformatician at Subramaniam Shankar Laboratory, UCSD Bioengineering
+**2013 06 - 2013 10** Bioinformatician at Shankar Subramaniam Laboratory, UCSD Bioengineering
 
 **2013 09 - 2016 05** Bioinformatician at Trey Ideker Laboratory, UCSD Bioengineering
 
-**2015 06 - 2019 07** Founder at Guardiome
+**2015 06 - 2019 08** Founder at Guardiome
 
 **2015 10 - 2024 01** Bioinformatician at Pablo Tamayo Laboratory, UCSD Moores Cancer Center
 
