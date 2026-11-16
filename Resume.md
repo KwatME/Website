@@ -6,11 +6,11 @@ KwatME.com
 
 **2011 09 - 2016 06** BS in Bioengineering and Bioinformatics at University of California San Diego (UCSD)
 
-**2019 08 - 2026 12 ** MD-PhD in Biophysics at Stanford University School of Medicine (dropped out of the MD program)
+**2019 08 - 2026 12** MD-PhD in Biophysics at Stanford University School of Medicine (dropped out of the MD program for Caucell)
 
 ## Profession
 
-**2010 06 - 2011 09 and 2014 06 - 2014 09** Technician at Kristina Bostrom Laboratory, University of California Los Angeles (UCLA) Cardiology
+**2010 06 - 2011 09 & 2014 06 - 2014 09** Technician at Kristina Bostrom Laboratory, University of California Los Angeles (UCLA) Cardiology
 
 **2013 05 - 2013 09** Technician at Stuart Lipton Laboratory, Sanford Burnham Prebys Medical Discovery Institute
 
@@ -18,15 +18,15 @@ KwatME.com
 
 **2013 09 - 2016 05** Bioinformatician at Trey Ideker Laboratory, UCSD Bioengineering
 
-**2018 10 - 2019 06** Bioinformatician at Stuart Schreiber Laboratory, The Broad Institute of MIT and Harvard Chemical Biology and Therapeutic Sciences
-
 **2015 06 - 2019 07** Founder at Guardiome
 
 **2015 10 - 2024 01** Bioinformatician at Pablo Tamayo Laboratory, UCSD Moores Cancer Center
 
+**2018 10 - 2019 06** Bioinformatician at Stuart Schreiber Laboratory, The Broad Institute of MIT and Harvard Chemical Biology and Therapeutic Sciences
+
 **2019 09 - 2020 09** Bioinformatician at Ronald Davis Laboratory, Stanford Genome Technology Center
 
-**2020 09 -** Bioinformatician at Mark Davis Laboratory, Stanford Institute for Immunity, Transplantation, and Infection
+**2020 09 - 2026 09** Bioinformatician at Mark Davis Laboratory, Stanford Institute for Immunity, Transplantation, and Infection
 
 **2023 12 - 2024 04** Founder at Immunogram
 
@@ -109,6 +109,10 @@ American Association of Immunologists (AAI) Annual Meeting
 AAI Annual Meeting (talk)
 
 Gates Foundation Tenth Annual Scientific Advisory Board Meeting (talk)
+
+**2026**
+
+Stanford PhD Defense
 
 ## Award
 
