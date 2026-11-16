@@ -20,7 +20,7 @@ KwatME.com
 
 **2015 06 - 2019 08** Founder at Guardiome
 
-**2015 10 - 2024 01** Bioinformatician at Pablo Tamayo Laboratory, UCSD Moores Cancer Center
+**2015 10 - 2024 01** Bioinformatician at Pablo Tamayo Laboratory, UCSD Moores Cancer Center (MCC)
 
 **2018 10 - 2019 06** Bioinformatician at Stuart Schreiber Laboratory, The Broad Institute of MIT and Harvard Chemical Biology and Therapeutic Sciences
 
@@ -42,11 +42,11 @@ Society for Advancement of Hispanics/Chicanos and Native Americans in Science (S
 
 **2014**
 
-University of California Leadership Excellence through Advanced Degrees (UCLEADS) Annual Symposium
+University of California Leadership Excellence through Advanced Degrees (UC LEADS) Annual Symposium
 
 American Association for Cancer Research (AACR) Annual Meeting
 
-UCSD Bioengineering Day (BD) Symposium
+UCSD Bioengineering Day Symposium
 
 UCLA Summer Programs for Undergraduate Research (SPUR) Symposium (talk)
 
@@ -56,29 +56,29 @@ International Genetically Engineered Machine (iGEM) Giant Jamboree (talk)
 
 **2015**
 
-UCLEADS Annual Symposium
+UC LEADS Annual Symposium
 
 AACR Annual Meeting
 
-UCSD BD Symposium
+UCSD Bioengineering Day Symposium
 
 **2016**
 
 AACR Annual Meeting
 
-UCSD BD Symposium (talk)
+UCSD Bioengineering Day Symposium (talk)
 
 UCSD Faculty Mentor Program Symposium
 
 San Diego Entrepreneur Night (talk)
 
-Y Combinator (YC) Interview (talk)
+Y Combinator Interview (talk)
 
 **2017**
 
 AACR Annual Meeting
 
-National Cancer Institute Cancer Target Discovery and Development (NCICTD2) Annual Meeting (talk)
+National Cancer Institute Cancer Target Discovery and Development (NCI CTD2) Annual Meeting (talk)
 
 **2018**
 
@@ -86,7 +86,7 @@ UCSD Campus-Wide Cancer Genomics Meeting (talk)
 
 AACR Annual Meeting
 
-NCICTD2 Annual Meeting (talk)
+NCI CTD2 Annual Meeting (talk)
 
 AACR Artificial Intelligence, Big Data, and Prediction in Cancer Meeting
 
@@ -94,7 +94,7 @@ AACR Artificial Intelligence, Big Data, and Prediction in Cancer Meeting
 
 AACR Advances in Pediatric Cancer Research Meeting
 
-YC Interview (talk)
+Y Combinator Interview (talk)
 
 **2022**
 
@@ -130,7 +130,7 @@ UCSD RCP Award
 
 UCSD RCP Award
 
-UCLEADS Fellowship
+UC LEADS Fellowship
 
 UCSD STARS Fellowship
 
@@ -160,11 +160,11 @@ UCSD Revelle College Frederick Bond Scholarship
 
 **2016**
 
-UCSD Moores Cancer Center Staff (MCCS) Award
+UCSD MCC Staff Award
 
 **2017**
 
-UCSD MCCS Award
+UCSD MCC Staff Award
 
 **2023**
 
@@ -177,3 +177,5 @@ Fifty Years Deep Technology Entrepreneurship Fellowship
 **2025**
 
 AAI Fellowship
+
+Silicon Couloir Pitch Day Audience Choice Award
