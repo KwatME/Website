@@ -4,33 +4,31 @@ KwatME.com
 
 ## Education
 
-**2011 09 - 2016 06** BS in Bioengineering and Bioinformatics at University of California, San Diego (UCSD)
+**2011 09 - 2016 06** BS in Bioengineering and Bioinformatics @ University of California San Diego (UCSD)
 
-**2019 08 - 2026 12** (MD-)PhD in Biophysics at Stanford University School of Medicine (withdrew from the MD component and was awarded MS for completed medical training)
+**2019 08 - 2026 12** (MD-)PhD in Biophysics @ Stanford University School of Medicine (withdrew from the MD component and was awarded MS for the completed medical training)
 
 ## Profession
 
-**2010 06 - 2011 09 & 2014 06 - 2014 09** Technician at Kristina Bostrom Laboratory, University of California, Los Angeles (UCLA) Cardiology
+**2010 06 - 2011 09 & 2014 06 - 2014 09** Technician @ Kristina Bostrom Laboratory, University of California Los Angeles (UCLA) Cardiology
 
-**2013 05 - 2013 09** Technician at Stuart Lipton Laboratory, Sanford Burnham Prebys Medical Discovery Institute
+**2013 05 - 2013 09** Technician @ Stuart Lipton Laboratory, Sanford Burnham Prebys Medical Discovery Institute
 
-**2013 06 - 2013 10** Bioinformatician at Shankar Subramaniam Laboratory, UCSD Bioengineering
+**2013 06 - 2013 10** Bioinformatician @ Shankar Subramaniam Laboratory, UCSD Bioengineering
 
-**2013 09 - 2016 05** Bioinformatician at Trey Ideker Laboratory, UCSD Bioengineering
+**2013 09 - 2016 05** Bioinformatician @ Trey Ideker Laboratory, UCSD Bioengineering
 
-**2015 06 - 2019 08** Founder at Guardiome
+**2015 06 - 2019 08** Founder @ Guardiome
 
-**2015 10 - 2024 01** Bioinformatician at Pablo Tamayo Laboratory, UCSD Moores Cancer Center (MCC)
+**2015 10 - 2024 01** Bioinformatician @ Pablo Tamayo Laboratory, UCSD Moores Cancer Center (MCC)
 
-**2018 10 - 2019 06** Bioinformatician at Stuart Schreiber Laboratory, The Broad Institute of MIT and Harvard Chemical Biology and Therapeutic Sciences
+**2018 10 - 2019 06** Bioinformatician @ Stuart Schreiber Laboratory, The Broad Institute of MIT and Harvard Chemical Biology and Therapeutic Sciences (hybrid)
 
-**2019 09 - 2020 09** Bioinformatician at Ronald Davis Laboratory, Stanford Genome Technology Center
+**2019 09 - 2020 09** Bioinformatician @ Ronald Davis Laboratory, Stanford Genome Technology Center
 
-**2020 09 - 2026 09** Bioinformatician at Mark Davis Laboratory, Stanford Institute for Immunity, Transplantation, and Infection
+**2020 09 - 2026 09** Bioinformatician @ Mark Davis Laboratory, Stanford Institute for Immunity, Transplantation, and Infection
 
-**2023 12 - 2024 04** Founder at Immunogram
-
-**2025 07 -** Founder at Caucell
+**2025 07 -** Founder @ Caucell
 
 ## Presentation
 
@@ -38,37 +36,37 @@ KwatME.com
 
 UCSD Summer Training Academy for Research Success (STARS) Symposium (talk)
 
-Society for Advancement of Hispanics/Chicanos and Native Americans in Science (SACNAS) Annual Meeting
+Society for Advancement of Chicanos/Hispanics and Native Americans in Science (SACNAS) Annual Meeting (poster)
 
 **2014**
 
-University of California Leadership Excellence through Advanced Degrees (UC LEADS) Annual Symposium
+University of California Leadership Excellence through Advanced Degrees (UC LEADS) Annual Symposium (poster)
 
-American Association for Cancer Research (AACR) Annual Meeting
+American Association for Cancer Research (AACR) Annual Meeting (poster)
 
-UCSD Bioengineering Day Symposium
+UCSD Bioengineering Day Symposium (poster)
 
 UCLA Summer Programs for Undergraduate Research (SPUR) Symposium (talk)
 
-SACNAS Annual Meeting
+SACNAS Annual Meeting (poster)
 
 International Genetically Engineered Machine (iGEM) Giant Jamboree (talk)
 
 **2015**
 
-UC LEADS Annual Symposium
+UC LEADS Annual Symposium (poster)
 
-AACR Annual Meeting
+AACR Annual Meeting (poster)
 
-UCSD Bioengineering Day Symposium
+UCSD Bioengineering Day Symposium (poster)
 
 **2016**
 
-AACR Annual Meeting
+AACR Annual Meeting (poster)
 
 UCSD Bioengineering Day Symposium (talk)
 
-UCSD Faculty Mentor Program Symposium
+UCSD Faculty Mentor Program Symposium (poster)
 
 San Diego Entrepreneur Night (talk)
 
@@ -76,7 +74,7 @@ Y Combinator Interview (talk)
 
 **2017**
 
-AACR Annual Meeting
+AACR Annual Meeting (poster)
 
 National Cancer Institute Cancer Target Discovery and Development (NCI CTD2) Annual Meeting (talk)
 
@@ -84,15 +82,15 @@ National Cancer Institute Cancer Target Discovery and Development (NCI CTD2) Ann
 
 UCSD Campus-Wide Cancer Genomics Meeting (talk)
 
-AACR Annual Meeting
+AACR Annual Meeting (poster)
 
 NCI CTD2 Annual Meeting (talk)
 
-AACR Artificial Intelligence, Big Data, and Prediction in Cancer Meeting
+AACR Artificial Intelligence, Big Data, and Prediction in Cancer Meeting (poster)
 
 **2019**
 
-AACR Advances in Pediatric Cancer Research Meeting
+AACR Advances in Pediatric Cancer Research Meeting (poster)
 
 Y Combinator Interview (talk)
 
@@ -102,7 +100,7 @@ Stanford Medical Scientists Training Program Annual Meeting (talk)
 
 **2023**
 
-American Association of Immunologists (AAI) Annual Meeting
+American Association of Immunologists (AAI) Annual Meeting (poster)
 
 **2025**
 
@@ -112,7 +110,7 @@ Gates Foundation Tenth Annual Scientific Advisory Board Meeting (talk)
 
 **2026**
 
-Stanford PhD Defense
+Stanford PhD Defense (talk)
 
 ## Award
 
