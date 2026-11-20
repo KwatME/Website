@@ -22,13 +22,13 @@ KwatME.com
 
 **2015 10 - 2024 01** Bioinformatician @ Pablo Tamayo Laboratory, UCSD Moores Cancer Center (MCC)
 
-**2018 10 - 2019 06** Bioinformatician @ Stuart Schreiber Laboratory, The Broad Institute of MIT and Harvard Chemical Biology and Therapeutic Sciences (hybrid)
+**2018 10 - 2019 06** Bioinformatician @ Stuart Schreiber Laboratory, The Broad Institute of MIT and Harvard Chemical Biology and Therapeutic Sciences
 
 **2019 09 - 2020 09** Bioinformatician @ Ronald Davis Laboratory, Stanford Genome Technology Center
 
 **2020 09 - 2026 09** Bioinformatician @ Mark Davis Laboratory, Stanford Institute for Immunity, Transplantation, and Infection
 
-**2025 07 -** Founder @ Caucell
+**2025 07 - Present** Founder @ Caucell
 
 ## Presentation
 
