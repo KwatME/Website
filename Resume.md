@@ -1,6 +1,6 @@
-## Kwat Medetgul-Ernar (Huwate Yeerna), PhD
+# Kwat Medetgul-Ernar, PhD
 
-KwatME.com
+Formerly Huwate Yeerna
 
 ## Education
 
@@ -181,3 +181,31 @@ Fifty Years Deep Technology Entrepreneurship Fellowship
 AAI Fellowship
 
 Silicon Couloir Pitch Day Audience Choice Award
+
+## Link
+
+[X](https://x.com/KwatME)
+
+[GitHub](https://github.com/KwatME)
+
+[Google Scholar](https://scholar.google.com/citations?user=PAM4lScAAAAJ&hl)
+
+[SBiDer: Synthetic Biocircuit Developer](https://2014.igem.org/Team:UCSD_Software)
+
+[GSEA: Gene Set Enrichment Analysis](https://gsea-msigdb.org/gsea/index.jsp)
+
+[OncoGPS: OncoGenic Positioning System](<https://cell.com/cell-systems/comments/S2405-4712(17)30335-6>)
+
+[Guardiome](https://guardiome.com)
+
+[Helixa](https://genomeweb.com/sequencing/startup-guardiome-emphasizes-privacy-new-wgs-consumer-offering)
+
+[The Adventures of Beri: The Story of Borrelia burgdorferi](https://amazon.com/Adventures-Beri-Story-Borrelia-Burgdorferi/dp/B099C28C3L)
+
+[The Adventures of Sam: The Story of Staphylococcus aureus](https://amazon.com/Adventures-Sam-Story-Staphylococcus-Aureus/dp/B09NRG1KLG)
+
+[Immunogram: A Generalized Framework to Measure a Person's Immune System](https://academic.oup.com/jimmunol/article-abstract/210/Supplement_1/249.21/7947927?redirectedFrom=fulltext)
+
+[Full-Stack Platform for Measuring the Human Immune System](https://purl.stanford.edu/dq412rk1427)
+
+[Caucell](https://caucell.com)
