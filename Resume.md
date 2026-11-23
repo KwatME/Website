@@ -10,13 +10,17 @@ KwatME.com
 
 ## Profession
 
-**2010 06 - 2011 09 & 2014 06 - 2014 09** Technician @ Kristina Bostrom Laboratory, University of California Los Angeles (UCLA) Cardiology
+**2010 06 - 2011 09** Technician @ Kristina Bostrom Laboratory, University of California Los Angeles (UCLA) Cardiology
 
 **2013 05 - 2013 09** Technician @ Stuart Lipton Laboratory, Sanford Burnham Prebys Medical Discovery Institute
 
 **2013 06 - 2013 10** Bioinformatician @ Shankar Subramaniam Laboratory, UCSD Bioengineering
 
 **2013 09 - 2016 05** Bioinformatician @ Trey Ideker Laboratory, UCSD Bioengineering
+
+**2014 06 - 2014 09** Technician @ Kristina Bostrom Laboratory, University of California Los Angeles (UCLA) Cardiology
+
+**2014 06 - 2014 10** Bioinformatician @ International Genetically Engineered Machine (iGEM) UCSD Software Team
 
 **2015 06 - 2019 08** Founder @ Guardiome
 
@@ -50,7 +54,7 @@ UCLA Summer Programs for Undergraduate Research (SPUR) Symposium (talk)
 
 SACNAS Annual Meeting (poster)
 
-International Genetically Engineered Machine (iGEM) Giant Jamboree (talk)
+iGEM Giant Jamboree (talk)
 
 **2015**
 
